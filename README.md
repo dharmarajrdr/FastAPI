@@ -7,6 +7,8 @@
 ### Table of Contents
 
 1. [Setup Playground](docs/1.%20Setup%20Playground.md)
+2. [Create First API](docs/2.%20Create%20First%20API.md)
+3. [Working in Database](docs/3.%20Working%20in%20Database.md)
 
 
 ### Contributing
